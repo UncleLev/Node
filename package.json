@@ -1,0 +1,11 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/UncleLev/Node.git",
+  "author": "UncleLev <risentean@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
